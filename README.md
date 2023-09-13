@@ -34,16 +34,15 @@ To replicate the success of this project, ensure the following prerequisites are
 
 Install NLTK using this command:
 
-```bash
 !pip install nltk
-```
+
 
 Additionally, download NLTK stopwords and punkt data for accurate text preprocessing:
 
-```python
+
 import nltk
 nltk.download("stopwords")
-```
+
 
 ## Installation
 
